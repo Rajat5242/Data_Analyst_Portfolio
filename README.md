@@ -42,7 +42,6 @@ In this section, I will list data analytics projects briefly describing the tech
 
 [Tableau Certification](https://simpli-web.app.link/e/5gblVkcjcxb) : Completed from Simplilearn
 
-[Data Analytics](https://user-images.githubusercontent.com/122004461/216973145-6cea8dd7-95ee-449c-ae83-334387d1379b.png) : Completed from Udemy
 
 
 ## Contact
