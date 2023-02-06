@@ -36,6 +36,8 @@ In this section, I will list data analytics projects briefly describing the tech
 
 
 ## Certifications
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have :
+
 [Data Science Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-4e788901-0518-4ae3-a9be-780b61b6e14f.jpg) : Completed from Udemy
 
 [Python Programming](https://udemy-certificate.s3.amazonaws.com/image/UC-f941f847-f70d-4b5e-adf7-05d1bb0918cc.jpg) : Completed from Udemy
@@ -47,4 +49,4 @@ In this section, I will list data analytics projects briefly describing the tech
 ## Contact
 linkdin : [Rajat Singh](https://www.linkedin.com/in/rajat-singh-5242k5242)
 
-email Id : [rajatsingh.5242@gmail.com](rajatsingh.5242@gmail.com)
+email Id : [rajatsingh.5242@gmail.com](https://myaccount.google.com/email)
