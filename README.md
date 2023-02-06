@@ -39,6 +39,6 @@ In this section, I will list data analytics projects briefly describing the tech
 [Data Science Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-4e788901-0518-4ae3-a9be-780b61b6e14f.jpg)
 [Python Programming](https://udemy-certificate.s3.amazonaws.com/image/UC-f941f847-f70d-4b5e-adf7-05d1bb0918cc.jpg)
 [Tableau Certification](https://simpli-web.app.link/e/5gblVkcjcxb)
-[Data Analytics](![image](https://user-images.githubusercontent.com/122004461/216973145-6cea8dd7-95ee-449c-ae83-334387d1379b.png)
+[Data Analytics](https://user-images.githubusercontent.com/122004461/216973145-6cea8dd7-95ee-449c-ae83-334387d1379b.png)
 
 
