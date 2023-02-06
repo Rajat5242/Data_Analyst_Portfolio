@@ -26,12 +26,12 @@ In this section I will list data analytics projects briefly describing the techn
 #### Technology : Python, Pandas, Numpy, TextBlob and WordCloud.
 #### Result : Using Python functions to calculate the positive , neutral and negative reviews in the dataset. Found positive comments much higher than negative comments.
 
-[Second Hand car market in Australia](https://public.tableau.com/views/Australiansecondhandcarmarket/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Second Hand car market in Australia](https://public.tableau.com/views/Australiansecondhandcarmarket/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 #### Description : Tableau Public dashboard consisted of : Calculated Total no. of Used cars and the different drve types. Donut chart highlighting the different Fuel types, Bar chart showing relation between Price and HP(Horsepower). Line chart showing relation between Price and Kilometer. Also added filters by Brand and Year.
 #### Result : Interactive Dashboard
 
 [Data Analysis of Ambition box website](https://public.tableau.com/views/Companieslistfromambitionboxwebsite/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-#### Description : Tableau Public dashboard consisted of : Donut chart highlighting different Company types, Bar chart showing relations between Rating and Reviews, also used vertical bar chart to display the top cities having highest no. of HeadQuarters. 
+#### Description : Tableau Public dashboard consisted of : Donut chart highlighting different Company types, Bar chart showing relations between Rating and Reviews, also used vertical bar chart to display the top cities having highest no. of HeadQuarters; filters by Company_name. 
 #### Result : Interactive Dashboard
 
 
