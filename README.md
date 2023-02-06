@@ -8,8 +8,8 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-# Portfolio_Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+## Portfolio_Projects
+In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 [Project-1: Second hand Car Correlation Project](https://github.com/Rajat5242/Portfolio_Projects/blob/main/Second%20hand%20car%20Correlation%20project%20.ipynb)
 #### Description : The dataset contains the list of second hand cars from 1989 to 2021 which are currently are in sale in Australia. The record includes the Name of the car, its Brand , Price, Model, Kilometers driven, CC, etc.. The project includes Data loading, cleaning and preprocessing, EDA(Exploratory Data Analysis), analyzing correlation and performing hypothesis testing.
@@ -35,5 +35,10 @@ In this section I will list data analytics projects briefly describing the techn
 #### Result : Interactive Dashboard
 
 
+## Certifications
+[Data Science Bootcamp](https://udemy-certificate.s3.amazonaws.com/image/UC-4e788901-0518-4ae3-a9be-780b61b6e14f.jpg)
+[Python Programming](https://udemy-certificate.s3.amazonaws.com/image/UC-f941f847-f70d-4b5e-adf7-05d1bb0918cc.jpg)
+[Tableau Certification](https://simpli-web.app.link/e/5gblVkcjcxb)
+[Data Analytics](![image](https://user-images.githubusercontent.com/122004461/216973145-6cea8dd7-95ee-449c-ae83-334387d1379b.png)
 
 
