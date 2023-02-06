@@ -46,6 +46,6 @@ In this section, I will list data analytics projects briefly describing the tech
 
 
 ## Contact
-linkdin : [Rajat Singh](www.linkedin.com/in/rajat-singh-9a8917110)
+linkdin : [Rajat Singh](https://www.linkedin.com/in/rajat-singh-5242k5242)
 
 email Id : [rajatsingh.5242@gmail.com](rajatsingh.5242@gmail.com)
