@@ -49,4 +49,5 @@ The best way to showcase skills is by doing and sharing your job done but someti
 ## Contact
 linkdin : [Rajat Singh](https://www.linkedin.com/in/rajat-singh-5242k5242)
 
-email Id : [rajatsingh.5242@gmail.com](https://myaccount.google.com/email)
+email Id : [rajatsingh.5242@gmail.com](https://user-images.githubusercontent.com/122004461/216979693-1a8faff0-cf8b-4ac1-9280-a1e184463b38.png)
+
